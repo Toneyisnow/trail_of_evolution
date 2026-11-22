@@ -136,3 +136,20 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Nested Unity project
+/TrailofMutation/Library/
+/TrailofMutation/Temp/
+/TrailofMutation/Obj/
+/TrailofMutation/Builds/
+/TrailofMutation/Logs/
+/TrailofMutation/UserSettings/
+
+/TrailofMutation/Library
+/.validation/
+/TrailofEvolution/Library/
+/TrailofEvolution/Temp/
+/TrailofEvolution/Obj/
+/TrailofEvolution/Builds/
+/TrailofEvolution/Logs/
+/TrailofEvolution/UserSettings/
